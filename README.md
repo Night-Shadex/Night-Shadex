@@ -28,7 +28,7 @@
 > ALIAS: Night-Shadex
 > CLEARANCE LEVEL: Early professional — student with internships, freelance work, and hackathons.
 > LOCATION: Kandy, Sri Lanka
-> CORPORATION: [Your company]
+> CORPORATION:
 > STATUS: Open to new opportunities
 ```
 
@@ -42,7 +42,7 @@ Technology should make life simpler, smarter, and more human-centered.
 Turning ideas into fully working apps instantly.
 
 **🛡️ WEAKNESS:**  
-Backend scalability and advanced system design.
+Perfectionism
 
 <br clear="right"/>
 
@@ -102,12 +102,12 @@ Designed the user interface for an online video platform.
 STATUS: BETA
 ACCESS: LIMITED
 ```
-A dark-themed, heavily animated single-page portfolio showcasing my journey as a software engineering student. Built with React, TailwindCSS, Framer Motion, and Three.js,
+A dark-themed, heavily animated single-page portfolio showcasing my journey as a software engineering student.
 
-**TECH_STACK:** `[Your project3Tech]`
+**TECH_STACK:** `React, TailwindCSS, Framer Motion,  Three.js`
 
-[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)]([Your project3Repo])
-[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)]([Your project3Link])
+[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)])
+[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)])
 
 </td>
 </tr>
@@ -126,24 +126,7 @@ A dark-themed, heavily animated single-page portfolio showcasing my journey as a
 PROGRAMMING_LANGUAGES:
   arsenal: [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,bootstrap,tailwindcss,vite,nodejs,python,java,php,cs,mysql,firebase,aws,apache,githubactions,gcp,figma,adobexd,pandas,pytorch,git,github,discord,notion,vscode)](https://skillicons.dev)
   
-```yaml
 
-
-FRONTEND_MATRIX:
-  skills: "[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,bootstrap,tailwindcss,vite)](https://skillicons.dev)"
-  
-BACKEND_CORE:
-  skills: "[![My Skills](https://skillicons.dev/icons?i=nodejs,python,java,php,cs)](https://skillicons.dev)"
-  
-DATABASE_NODES:
-  connections: "[![My Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://skillicons.dev)"
-  
-DEVOPS_PIPELINE:
-  automation: "[Your devops1]"
-  
-CLOUD_NETWORK:
-  infrastructure: "[![My Skills](https://skillicons.dev/icons?i=aws,apache,githubactions,gcp)](https://skillicons.dev)"
-```
 
 <div align="center">
 
@@ -153,7 +136,6 @@ CLOUD_NETWORK:
 
   <img src="https://img.shields.io/badge/Full-stack development with React, .NET, and SQL.-000000?style=for-the-badge&logo=code&logoColor=00FF41" alt="Primary Tech" />
   <img src="https://img.shields.io/badge/EXP_LEVEL-Early professional — student with internships, freelance work, and hackathons.-FF0080?style=for-the-badge&logoColor=white" alt="Experience Level" />
-  <img src="https://img.shields.io/badge/BEST_ACCURACY-[Your bestAccuracy]-00FFFF?style=for-the-badge&logoColor=black" alt="Best Accuracy" />
   <img src="https://img.shields.io/badge/CODING_HOURS-[Your programmingHours]/week-00FF41?style=for-the-badge&logoColor=black" alt="Coding Hours" />
 
 </div>
@@ -187,7 +169,7 @@ CLOUD_NETWORK:
 </div>
 
 ```bash
-> CURRENT_LEARNING_PROCESS: [Your currentLearning]
+> CURRENT_LEARNING_PROCESS: Completeing my Degree
 > MOTIVATION_CORE: Solving problems creatively and building impactful solutions.
 > OBJECTIVE_PRIMARY: Building a strong portfolio of real-world projects.
 > OBJECTIVE_SECONDARY: Becoming a software engineer
@@ -208,9 +190,6 @@ CLOUD_NETWORK:
 </a>
 <a href="https://linkedin.com/in/mirzan-zuhair-ns">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/[Your twitter]">
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
 <a href="[Your portfolio]">
   <img src="https://img.shields.io/badge/PORTFOLIO-FF0080?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
